@@ -1,4 +1,2 @@
-Hello! This is a game of space invaders built from Python and the Turtle module
+Hello! This is a game of basic one page website which fetches a random Lord of the Rings quote from an API and puts it with a randomly fetched image. Just a little fun :)
 
-
-Reference: https://elgoog.im/space-invaders/
