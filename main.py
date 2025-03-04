@@ -27,9 +27,3 @@ if __name__ == '__main__':
     app.run(debug=True, port=5001)
     
     
-    
-# To do:
-# Fetch Random Quote
-# Fetch Image
-# Mash together
-# Edit buttons and navbar
